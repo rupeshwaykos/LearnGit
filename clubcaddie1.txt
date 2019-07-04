@@ -1,0 +1,129 @@
+
+USER - Hi 
+REPLY - Hello sir welcome to the club-caddie . How can i help you today?
+(If user haves the technical issue)
+REPLY - Sir may i know which course you are on currently ? 
+USER - tells you the course name 
+REPLY - May i know your Build version you are using currently ? It's located in Bottom right corner And it's starts with v.
+USER - tells you the build version 
+REPLY - ok ... i'll check your issue just give me a sec..(Give an proper reply according to that issue) 
+
+
+At the End of the conversation 
+REPLY - We are happy to help you , have a good day
+
+
+If issue is sales issue 
+REPLY - sir this issue seems to be an sales issue . Let me check the sales team is on or not
+REPLY - (If sales team are on)Give me a second i'll connect you to the sales team
+REPLY- (If sales team are not on) Sir,Unfortunatlly sales are on between EST 9-5 .Please try to reconnect at EST 9-5 Thank You
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+
+ 
+(welcome) :          Hello sir welcome to the club-caddie . How can i help you today?
+
+	            Good afternoon! How may we assist you today?
+
+(If Call Missed) :  We apologize, but at this time we’re unable to recived your call.
+
+
+(Information)    :  May I ask for some more information before we continue?
+		
+		If you give me which course you are on currently I can begin looking up more information.
+
+                               An If you give me your Build version you are using currently I can begin looking up your information.
+                      
+                               I feel that the best way to solve your issue
+
+
+(Apology)    :    We understand how you feel, we’re very sorry. We’re going to take care of this for you right now.
+	        We’re very sorry, but fulfilling that request isn’t possible at this time. Let me check and see what I can do for you.
+ 
+                        We’re deeply sorry about *Issue*. Let me speak with my senior to see how we can correct this for you.   == (Transfer Called To senior)
+                        
+
+                        I understand how you feel—would you like to speak with a senior who would be able to better meet your needs?
+
+
+ (Remote Access)  : We aren’t able to solve this issue without some more information. It would be a great help to us if we could remotely access your computer. Is that okay?
+
+
+(Ask For Screen)  :    a)  I'm not able to share the screen on my behalf, Can you share the screen?
+		   b) The option to open a screen is to click on the bottom right three dot.
+		   c)  I am sending you the link, by clicking on that link you will get a notification, Click on the Joint button, then I can see your screen. (Remotly Access)
+ 		  d)  I am sending you the link, by clicking on that link you will get a notification, Click on the Joint button, then you can see my screen. (Screen Sharing)
+		
+		
+		
+
+(Thanks)   :    Thank you for using our club-caddie live chat service, and we hope to hear from you again! Goodbye!
+                       Thank you for visiting! We hope to see you again!
+                       If you have any further issues and would like to contact us directly, you can reach us at www.clubcaddie.com
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+USER - Hi 
+[Auto-generated Reply]REPLY -  Hi, Welcome to the Club-Caddie. How can I help you today?
+(If user has technical issue)
+
+If user doesn’t explain
+		   Reply - How can I help you?
+
+		   USER - *Explains Issue*
+		   REPLY - I will surely help you with your issue.
+			May i know the course on which system is being used? 
+			You will find the version at the Bottom right corner and it starts with v.
+
+		  USER - *Tells the course * 
+		  REPLY - May i know the build version you are using currently? 
+			*Tells the Build version* .
+ 
+		  REPLY - I’m really sorry for the inconvenience. I’ll surely help you with the issue.
+
+			If issue is not clear
+		  REPLY - Sir, can you tell me the exact steps how you are getting that issue
+			If Issue is clear to you:
+
+		  REPLY - I believe the best solution is:
+			Sir can you hold few minutes I ll just checking that Issue.
+…….
+,....
+
+		 USER - Not satisfied with your resolution and wants to talk to Senior or other person
+		 REPLY - I’ll transfer this chat to my Supervisor
+	OR
+		 I’ll raise a ticket for this on priority and my supervisor will contact you via email
+
+
+		*At the End of the conversation *
+
+		If issue was resolved - 
+		REPLY - is there anything else I can help you with?
+
+		If Yes
+		Reply - Please be on the line with us, I will check what I can do here 
+
+		If No
+		REPLY - We’re happy to help you. Have a Good Day
+
+
+Joint us 
+share now
+
+Best Regards
+
+Shyam
+
+
+ Main apnit taraph she screen share nahi kar par raha hu, kya aap screen share initiate kar sakate ho.
+ -> I'm not able to share the screen on my behalf, Can you share the screen?
+
+ Screen share ka option is window chat ke bottom right three dot par hai.
+ -> The option to open a screen is to click on the bottom right three dot.
+
+main aapako link bhej raha hu, us link par clik kariye tumhe popap window milegee, vah par join button par click kariye, phir main aapakee screen dekh sakata hu.
+-> I am sending you the link, by clicking on that link you will get a popup window, click on the Joint button, then I can see your screen.
