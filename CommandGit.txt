@@ -1,0 +1,15 @@
+(01) - git clone path  #
+(02) - git status  #
+(03) - git branch  #
+(04) - git checkout branch_name  #
+(05) - git checkout -b branch_name  #
+(06) - git diff file_path  #
+(07) - git add .  #
+(08) - git add file_path file_path file_path  #
+(09) - git commit -m "commit message"  #
+(10) - git fetch origin branch_name  #
+(11) - git push origin branch_name  #
+(12) - git pull origin branch_name  #
+
+
+
